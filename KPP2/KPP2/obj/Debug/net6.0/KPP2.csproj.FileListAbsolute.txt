@@ -1,0 +1,14 @@
+D:\Project\Project C#\KPP2\KPP2\obj\Debug\net6.0\KPP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Project C#\KPP2\KPP2\obj\Debug\net6.0\KPP2.AssemblyInfoInputs.cache
+D:\Project\Project C#\KPP2\KPP2\obj\Debug\net6.0\KPP2.AssemblyInfo.cs
+D:\Project\Project C#\KPP2\KPP2\obj\Debug\net6.0\KPP2.csproj.CoreCompileInputs.cache
+D:\Project\Project C#\KPP2\KPP2\bin\Debug\net6.0\KPP2.exe
+D:\Project\Project C#\KPP2\KPP2\bin\Debug\net6.0\KPP2.deps.json
+D:\Project\Project C#\KPP2\KPP2\bin\Debug\net6.0\KPP2.runtimeconfig.json
+D:\Project\Project C#\KPP2\KPP2\bin\Debug\net6.0\KPP2.dll
+D:\Project\Project C#\KPP2\KPP2\bin\Debug\net6.0\KPP2.pdb
+D:\Project\Project C#\KPP2\KPP2\obj\Debug\net6.0\KPP2.dll
+D:\Project\Project C#\KPP2\KPP2\obj\Debug\net6.0\refint\KPP2.dll
+D:\Project\Project C#\KPP2\KPP2\obj\Debug\net6.0\KPP2.pdb
+D:\Project\Project C#\KPP2\KPP2\obj\Debug\net6.0\KPP2.genruntimeconfig.cache
+D:\Project\Project C#\KPP2\KPP2\obj\Debug\net6.0\ref\KPP2.dll
